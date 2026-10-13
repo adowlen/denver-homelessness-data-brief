@@ -59,3 +59,11 @@ Denver Auditor reports: All In Mile High audit (Mar 2026); City Shelters audit +
 ## License
 
 Analysis and text: public domain (CC0). Code: MIT.
+
+## Methods and data
+
+The analysis scripts are in [code/](code/). Dataset sources, coverage, and known limitations are documented in [data/DATA_NOTES.md](data/DATA_NOTES.md). Raw data is not committed to this repository; Reproduce it above gives the download scripts and public source links used to rebuild the inputs.
+
+## Part of Machine Readable
+
+This brief is part of [Machine Readable](https://github.com/adowlen/machine-readable), the catalog of all Machine Readable briefs.
