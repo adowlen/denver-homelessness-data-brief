@@ -67,3 +67,8 @@ The analysis scripts are in [code/](code/). Dataset sources, coverage, and known
 ## Part of Machine Readable
 
 This brief is part of [Machine Readable](https://adowlen.github.io/machine-readable/), the catalog of all Machine Readable briefs.
+
+
+## Reuse and citation
+
+This brief is published for reuse. Data and text are public domain (CC0); code is MIT - see the License section above. Credit is appreciated but not required: Machine Readable (Alex Dowlen), https://github.com/adowlen/denver-homelessness-data-brief
