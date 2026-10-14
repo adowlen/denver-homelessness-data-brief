@@ -66,4 +66,4 @@ The analysis scripts are in [code/](code/). Dataset sources, coverage, and known
 
 ## Part of Machine Readable
 
-This brief is part of [Machine Readable](https://github.com/adowlen/machine-readable), the catalog of all Machine Readable briefs.
+This brief is part of [Machine Readable](https://adowlen.github.io/machine-readable/), the catalog of all Machine Readable briefs.
